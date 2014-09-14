@@ -1,0 +1,15 @@
+C:\Users\Thomas\AppData\Local\Temporary Projects\stock list\bin\Debug\stock list.exe
+C:\Users\Thomas\AppData\Local\Temporary Projects\stock list\bin\Debug\stock list.pdb
+C:\Users\Thomas\AppData\Local\Temporary Projects\stock list\obj\x86\Debug\stock_list.Form1.resources
+C:\Users\Thomas\AppData\Local\Temporary Projects\stock list\obj\x86\Debug\stock_list.Properties.Resources.resources
+C:\Users\Thomas\AppData\Local\Temporary Projects\stock list\obj\x86\Debug\stock list.csproj.GenerateResource.Cache
+C:\Users\Thomas\AppData\Local\Temporary Projects\stock list\obj\x86\Debug\stock list.exe
+C:\Users\Thomas\AppData\Local\Temporary Projects\stock list\obj\x86\Debug\stock list.pdb
+C:\Users\Tom\Downloads\stock list\stock list\stock list\bin\Debug\stock list.exe
+C:\Users\Tom\Downloads\stock list\stock list\stock list\bin\Debug\stock list.pdb
+C:\Users\Tom\Downloads\stock list\stock list\stock list\obj\x86\Debug\stock list.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Downloads\stock list\stock list\stock list\obj\x86\Debug\stock_list.Form1.resources
+C:\Users\Tom\Downloads\stock list\stock list\stock list\obj\x86\Debug\stock_list.Properties.Resources.resources
+C:\Users\Tom\Downloads\stock list\stock list\stock list\obj\x86\Debug\stock list.csproj.GenerateResource.Cache
+C:\Users\Tom\Downloads\stock list\stock list\stock list\obj\x86\Debug\stock list.exe
+C:\Users\Tom\Downloads\stock list\stock list\stock list\obj\x86\Debug\stock list.pdb
